@@ -1,0 +1,11 @@
+{
+    "apps": [
+      {
+        "name": "api-python",
+        "script": "app.py",
+        "interpreter": "py",
+        "exec_mode": "fork",
+        "watch": true
+      }
+    ]
+  }
